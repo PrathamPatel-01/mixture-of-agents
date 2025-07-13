@@ -41,6 +41,53 @@ This project demonstrates how to build a **Mixture of Agents** app using open-so
 ```bash
 git clone https://github.com/PrathamPatel-01/mixture-of-agents.git
 cd mixture-of-agents
+```
+
+### 2. Install dependencies
+
+```bash
+pip install -r requirements.txt
+```
+
+### 3. Run the app
+
+```bash
+streamlit run mixture-of-agents.py
+```
+
+### 4. Enter your Together API key
+
+Get it from: https://api.together.xyz/settings/api-keys
+
+## 📁 File Structure
+
+```bash
+mixture-of-agents/
+├── mixture-of-agents.py       # Main Streamlit app
+├── requirements.txt           # Python dependencies
+└── README.md                  # You're here!
+```
+
+## 📸 Screenshots
+
+## 🤝 Credits
+
+--This project is adapted from a code snippet shared in a Telegram group. I did not write the original logic but implemented and extended it as a personal learning project.
+
+--Special thanks to the open-source community and Together AI for providing model access.
+
+## 📌 License
+
+This project is for educational and non-commercial use.
+Feel free to fork and experiment.
+
+## 💬 Let's Connect
+
+LinkedIn: https://www.linkedin.com/in/pratham-patel-2b506a334/
+GitHub: @PrathamPatel-01
+
+
+
 
 
 
